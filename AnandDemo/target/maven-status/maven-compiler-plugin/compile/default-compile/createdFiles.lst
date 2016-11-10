@@ -1,0 +1,6 @@
+HelloWorld.class
+com\aa\demo\Order.class
+com\aa\demo\ServiceController.class
+com\aa\svcs\Request.class
+com\aa\svcs\Response.class
+com\aa\svcs\Service.class
